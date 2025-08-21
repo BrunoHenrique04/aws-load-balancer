@@ -7,7 +7,7 @@ on:
 
 env:
   TERRAFORM_VERSION: 1.12.1
-  TF_VAR_UnicBucketName: "meu-bucket-de-nome-unico-123458"
+  TF_VAR_UnicBucketName: "meu-bucket-de-nome-unico-123478"
   TF_VAR_bucketName: "meu-bucket"
   TF_VAR_bucketEnv: "dev"
 
