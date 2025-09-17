@@ -8,7 +8,7 @@ on:
 env:
   TERRAFORM_VERSION: 1.12.2
   # Backend S3 configuration
-  S3_BUCKET_NAME: my-tf-state-bucket-123456
+  S3_BUCKET_NAME: bruno-tf-state-bucket-566789
   S3_BUCKET_REGION: us-east-1
   TERRAFORM_STATE_KEY: aws-load-balancer/terraform.tfstate
 
